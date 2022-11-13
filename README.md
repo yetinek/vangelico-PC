@@ -8,7 +8,7 @@
     end
     
  UI CREATED BY [KORNIK](https://github.com/KoRrNiK)
- LUA CREATED BY [YETI](https://github.com/yetinek)
+ 
 
 
 ![unknown](https://cdn.discordapp.com/attachments/978686779588759643/1041369117283844106/image.png)
